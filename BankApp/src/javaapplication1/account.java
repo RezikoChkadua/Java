@@ -26,7 +26,8 @@ public class account {
     }
 
     /**
-     * @return the interest
+     * @return the interest    }
+
      */
     public double getInterest() {
         return interest * 100;

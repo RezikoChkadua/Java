@@ -18,5 +18,4 @@ class bank {
     ArrayList<costumer> getcostumers(){
         return costumers;
     }
-
 }
